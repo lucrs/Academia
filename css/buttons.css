@@ -1,0 +1,15 @@
+.btn-custom{
+    background:rgb(250, 155, 3);
+    border: 2px solid white;
+    padding: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btn-custom:hover, btn-custom:focus, btn-custom:active{
+    background:rgb(250, 155, 3);
+    border: 2px solid white;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
