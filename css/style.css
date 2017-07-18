@@ -1,4 +1,5 @@
 @import "buttons.css";
+@import "index-about.css";
 
 body{
     font-size: 14px;
@@ -65,3 +66,38 @@ body{
     border: 1px solid white;
 }
 
+.section-center{
+    text-align: center;
+
+}
+.section{
+
+    padding:30px 0 30px 0;
+}
+
+
+@media (max-width: 991px) {
+    #header .navbar-brand {
+        position: relative;
+        right: -207px;
+    }
+}
+@media (max-width: 991px) {
+    #navbar .navbar-nav {
+        position: relative;
+        right: 76px;
+    }
+}
+
+@media (max-width: 551px) {
+    #header .navbar-brand {
+        position: relative;
+        right: 0;
+    }
+}
+@media (max-width: 551px) {
+    #navbar .navbar-nav {
+        position: relative;
+        right: 0;
+    }
+}
