@@ -1,0 +1,44 @@
+#workout{
+    background: rgba(164, 175, 163, 0.36);
+}
+#workout .workout-text img{
+    height: 200px;
+    width: 100%;
+    border: 1px solid black;
+
+    cursor: pointer;
+
+}
+
+#workout .description-workout span{
+    position: relative;
+}
+#workout .description-workout span{
+    position: absolute;
+    top: 94px;
+    left: 137px;
+    color: white;
+    font-size: 21px;
+    display: none;
+}
+#workout .description-workout:hover img{
+  opacity: 0.2;
+
+}
+
+#workout .description-workout:hover span{
+display: block;
+}
+
+#workout .workout-text h2:after{
+    content: '';
+    display: block;
+    background-color: rgb(130, 130, 130);
+    margin: 5px auto 0 auto;
+    width: 50px;
+    height: 2px;
+}
+#workout .workout-separator{
+    margin-top: 15px;
+}
+

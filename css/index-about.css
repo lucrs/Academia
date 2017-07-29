@@ -1,7 +1,20 @@
 #about-gym{
     background-color: #f3f0e7;
 }
+
+#about-gym h2{
+    text-align: center;
+}
 #about-gym img{
     width: 354px;
     float: left;
+}
+
+#about-gym h2:after{
+    content: '';
+    display: block;
+    background-color: rgb(130, 130, 130);
+    margin: 5px auto 0 auto;
+    width: 50px;
+    height: 2px;
 }

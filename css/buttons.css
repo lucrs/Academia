@@ -4,6 +4,7 @@
     padding: 20px;
     font-weight: bold;
     text-transform: uppercase;
+    margin-left: 0;
 }
 
 .btn-custom:hover, btn-custom:focus, btn-custom:active{

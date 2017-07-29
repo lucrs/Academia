@@ -1,17 +1,19 @@
 @import "buttons.css";
 @import "index-about.css";
+@import "workout.css";
+@import "carrosel.css";
 
 body{
     font-size: 14px;
 }
 
-#header{
-    background-image: url("../images/header.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 900px;
-}
+/*#header{*/
+    /*background-image: url("../images/header.jpg");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*width: 100%;*/
+    /*height: 900px;*/
+/*}*/
 
 #header  .navigation{
     width: 100%;
@@ -47,7 +49,7 @@ body{
     color: white;
     font-weight: 100;
     font-size: 4em;
-    padding: 6em 0 0 0;
+    padding: 6em 0 4em 0;
 }
 
 #header .welcome h1{
