@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a29ef0f3-d56a-4e5c-ac72-80f90fac5842" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/god-speed-you-black-emperor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/god-speed-you-black-emperor@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/kaki-king.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/kaki-king@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/micky-green.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/micky-green@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/puggy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/puggy@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/scampi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carrosel/scampi@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/social-facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/social-twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/social-youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/hover.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sequence-theme.pop-slide.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/tipografia.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/hammer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sequence-theme.pop-slide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sequence.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sequence.min.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/workout.css" afterPath="$PROJECT_DIR$/css/workout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="39" column="102" lean-forward="false" selection-start-line="39" selection-start-column="102" selection-end-line="39" selection-end-column="102" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
@@ -120,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
@@ -153,6 +124,7 @@
       <find>900</find>
       <find>hvr-underline-from-center</find>
       <find>hover</find>
+      <find>z-in</find>
     </findStrings>
     <dirStrings>
       <dir>C:\www\Academia\bootstrap\js</dir>
@@ -177,8 +149,8 @@
         <option value="$PROJECT_DIR$/css/contact.css" />
         <option value="$PROJECT_DIR$/js/sequence.min.js" />
         <option value="$PROJECT_DIR$/css/sequence-theme.pop-slide.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -398,12 +370,12 @@
       <workItem from="1501213240389" duration="8655000" />
       <workItem from="1501289630702" duration="11919000" />
       <workItem from="1501814395872" duration="9309000" />
-      <workItem from="1501824299726" duration="5581000" />
+      <workItem from="1501824299726" duration="5866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61242000" />
+    <option name="totallyTimeSpent" value="61527000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,7 +397,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -843,10 +815,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+        <state relative-caret-position="408">
+          <caret line="39" column="102" lean-forward="false" selection-start-line="39" selection-start-column="102" selection-end-line="39" selection-end-column="102" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
@@ -854,14 +834,6 @@
             <element signature="n#div#1;n#div#0;n#div#1;n#section#1;n#main#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#src#0;n#img#0;n#div#1;n#div#0;n#div#1;n#section#1;n#main#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
