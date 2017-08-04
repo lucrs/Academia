@@ -89,7 +89,7 @@
                             <a class="btn btn-warning btn-large btn-custom col-xs-offset-5 hvr-pulse">Conheça nossos planos</a>
 
                         </div>
-                    </divhrv->
+                    </div>
                 </div>
             </div>
         </div>
@@ -282,30 +282,7 @@
 </footer>
 
 <script type="text/javascript">
-    function calcula_imc(){
-        var altura = document.imcForm.altura.value;
-        var peso = document.imcForm.peso.value;
 
-        var quadrado = (altura * altura);
-
-        var calculo = (peso/quadrado);
-
-        if(calculo<18.5){
-            alert("Você está magro com esse indice: " + calculo);
-        }
-        else if(calculo>=18.5 && calculo<24.9){
-            alert("Você está normal com esse indice: " + calculo);
-        }
-
-        else if(calculo>=25 && calculo<29.9) {
-            alert("Você está com sobre peso com esse indice: " + calculo);
-        }
-        else if(calculo>=30 && calculo<39.9) {
-            alert("Você está com obesidade com esse indice: " + calculo);
-        }
-        else if (calculo>40)
-            alert("Você estácom obesidade grave com esse indice: " + calculo);
-    }
 
 </script>
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
@@ -319,6 +296,7 @@
 <script src="js/hammer.min.js"></script>
 <script src="js/sequence.min.js"></script>
 <script src="js/sequence-theme.pop-slide.js"></script>
+<script src="js/imc.js"></script>
 
 
 </body>
